@@ -1,0 +1,1 @@
+This repository contains a simple, static survey form built entirely with HTML. It demonstrates the use of various form controls, including text inputs for name and email , a number input , a dropdown select menu , radio buttons , checkboxes , and a textarea.
